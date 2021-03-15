@@ -11,8 +11,7 @@ Dataset-
 
 •	The dataset used for visualisation is of Olympic Games including the games from the year 1896 to 2016. 
 •	Dataset has been downloaded from www.kaggle.com and originally it is scrapped from www.sports-reference.com.
-•	The Dataset includes the 271116 entries with different 15 attributes where each row corresponds to an individual participant competing in an individual Olympic event. Below are the attributes present in the Dataset.
-•	In this dataset I am considering 	
+•	The Dataset includes the 271116 entries with different 15 attributes where each row corresponds to an individual participant competing in an individual Olympic event. Below are the attributes present in the Dataset. 	
 
       1.	ID - Unique number for each athlete
       2.	Name - Athlete's name
@@ -57,7 +56,7 @@ Visualisation-
 -	Tools Used – Tableau
 
 
-3.  The third choice of Graph is the part of the animation in tableau it demonstrates that how the difference of medals wins between males and females change over the period. (Refer the video for more explanation)
+3.  The third choice of Graph is the part of the animation in tableau it demonstrates that how the difference of medals wins between males and females change over the period.            (Refer the video for more explanation)
 *Note- In video part of this graph X-axis didn’t got captured but it is present as seen in below screenshot
 •	Tool used: Tableau
 
