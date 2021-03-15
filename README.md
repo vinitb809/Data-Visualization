@@ -38,22 +38,20 @@ Dataset-
  
 Visualisation-
 1.  Choropleth graph: 
-•	A Choropleth graph is the most suitable option to visualise the total medal win counts for the countries over the 120 years in the Olympics. 
-• Colour used to show medal counts is ‘Green’ with the colour scale, the lighter the shade the lower is the medal count whereas darker the shade higher is the count.
-•	Country Borders are clearly kept as black to get highlighted and separate the regions. Also removed unnecessary lines such as coastlines and frame to keep the focus on the main part of the graphs.
+•     A Choropleth graph is the most suitable option to visualise the total medal win counts for the countries over the 120 years in the Olympics. 
+•     Colour used to show medal counts is ‘Green’ with the colour scale, the lighter the shade the lower is the medal count whereas darker the shade higher is the count.
+•	Country Borders are clearly kept as black to get highlighted and separate the regions. Also removed unnecessary lines such as coastlines and frame to keep the focus on         the main part of the graphs.
 •	Labels are placed to color scale and title of the graph to describe, which makes understanding easy.
 •	Tools and libraries used: Jupyter Notebook, Pandas and Plotly.
 
 
 2. Box and Whisker graph: 
-•	A Box and Whisker Plot is perfectly suitable to show the range of ages of medal winners in different sports including the youngest and oldest medal winner’s age. 
-•	Box and whisker plot found to be perfect for this scenario which includes minimum value as well as maximum values within the Quartiles. 
-•	In this graph apart from age and sports I have considered other attributes too such as Name, Year and Medal (Gold/Silver/Bronze) 
-
--	In the graph for highlighting medals, I tried to give colour for each medal (Gold, Silver, Bronze) a relevant colour also kept the shape of the medal shape to the circle.
--	Used horizontal box plot for better understanding as there are many sports and cannot be seen properly in normally.
--	Both X and Y axis are labelled horizontally for better reading the sports content including graph chart heading.
--	Tools Used – Tableau
+•     A Box and Whisker Plot is perfectly suitable to show the range of ages of medal winners in different sports including the youngest and oldest medal winner’s age. also it       is suitable for this scenario which includes minimum value as well as maximum values within the Quartiles. 
+      Apart from age and sports I have considered other attributes too such as Name, Year and Medal (Gold/Silver/Bronze) 
+•     In the graph for highlighting medals, I tried to give colour for each medal (Gold, Silver, Bronze) a relevant colour also kept the shape of the medal shape to the circle.
+•	Used horizontal box plot for better understanding as there are many sports and cannot be seen properly in normally.
+•	Both X and Y axis are labelled horizontally for better reading the sports content including graph chart heading.
+•	Tools Used – Tableau
 
 
 3.  The third choice of Graph is the part of the animation in tableau it demonstrates that how the difference of medals wins between males and females change over the period.            (Refer the video for more explanation)
