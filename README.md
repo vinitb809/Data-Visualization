@@ -1,4 +1,4 @@
-# Data-Visualization
+# 120 Years of Olympics Visualization
 
 Abstract-
 
